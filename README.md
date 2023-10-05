@@ -1,6 +1,6 @@
 # A short bio: who am I?
 
-I am a sophomore at West Liberty University.
+I have previously studied at West Liberty University.
 I am an amateur (ham) radio operator. My callsign is KE8HVH. 
 I dabble (but would not consider myself proficient in) python.
 
