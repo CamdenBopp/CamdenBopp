@@ -9,3 +9,7 @@ My personal website has gone through several iterations. First, I was using [Hug
 My website has also moved from qsl.net/ke8hvh to ke8hvh.net. 
 
 If you would like to follow me on social media, [you can do so at the following link](https://ke8hvh.net/about-bio)
+
+## Guides
+
+[Emacspeak on macOS](https://gist.github.com/CamdenBopp/934d5459cbf4feb32f942e34abf89b93) is a tested setup for running Emacspeak on Apple Silicon Macs with Emacs 31 and the nsspeaker speech server.
