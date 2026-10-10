@@ -13,3 +13,7 @@ If you would like to follow me on social media, [you can do so at the following 
 ## Guides
 
 [Emacspeak on macOS](https://gist.github.com/CamdenBopp/934d5459cbf4feb32f942e34abf89b93) is a tested setup for running Emacspeak on Apple Silicon Macs with Emacs 31 and the nsspeaker speech server.
+
+## Research
+
+[macOS Wireless Diagnostics and BloodhoundKit investigation](https://gist.github.com/CamdenBopp/6da4bc8cccbd486e767defcb9a2c307c) documents reverse-engineering findings, packet-capture behavior, and a historical installer search back to OS X Lion, with supporting evidence and search limitations.
